@@ -103,12 +103,12 @@ python main.py
 - Reset chat	Clears conversation history
 - Jarvis quit	Exits Jarvis AI
   
-⚠️ Update paths for music and apps based on your system.
+**⚠️ Update paths for music and apps based on your system.**
+
 ---
 
-
-
-
+## 📁 Folder Structure 
+```
 JarvisAI/
 │
 ├── main.py                  # Core voice assistant script
@@ -117,9 +117,8 @@ JarvisAI/
 ├── Openai/                  # Folder for AI-generated text files
 ├── assets/                  # Screenshots, GIFs, icons
 └── README.md                # Project documentation
-
-
-
+```
+---
 
 ## 👤 Author
 
