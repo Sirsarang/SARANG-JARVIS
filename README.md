@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT-4o-mini-orange)](https://platform.openai.com/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ---
 
