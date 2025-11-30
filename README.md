@@ -67,33 +67,4 @@ python3 -m venv .venv
 source .venv/bin/activate
 # Windows
 .venv\Scripts\activate
-3️⃣ Install Dependencies
-pip install -r requirements.txt
-4️⃣ Add OpenAI API Key
-Create a config.py file and add your key:
-apikey = "YOUR_OPENAI_API_KEY"
-5️⃣ Run Jarvis AI
-python main.py
-🖥 Usage Instructions
-Speak or type commands into Jarvis:
-Command	Action
-open youtube	Opens YouTube in browser
-open google	Opens Google in browser
-open wikipedia	Opens Wikipedia in browser
-open music	Plays your local music file
-the time	Announces current time
-open facetime	Opens FaceTime app
-open pass	Opens Passky app
-using artificial intelligence	Saves AI response to a file
-reset chat	Clears conversation history
-jarvis quit	Exits Jarvis AI
-⚠️ Update paths for music and apps based on your system.
-📂 Project Structure
-JarvisAI/
-│
-├── main.py                  # Core voice assistant script
-├── config.py                # API key configuration
-├── requirements.txt         # Python dependencies
-├── Openai/                  # Folder for AI-generated text files
-├── assets/                  # Screenshots, GIFs, icons
-└── README.md                # Project documentation
+
