@@ -1,7 +1,7 @@
 # 🤖 Jarvis AI – Your Personal Desktop Assistant
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT-4o-mini-orange)](https://platform.openai.com/)
+
 
 ---
 
@@ -82,7 +82,7 @@ apikey = "YOUR_OPENAI_API_KEY"
 python main.py
 
 
-🖥 Usage Instructions
+## 🖥 Usage Instructions
 Speak or type commands into Jarvis:
 Command	Action
 open youtube	Opens YouTube in browser
@@ -97,7 +97,7 @@ reset chat	Clears conversation history
 jarvis quit	Exits Jarvis AI
 ⚠️ Update paths for music and apps based on your system.
 
-📂 Project Structure
+## 📂 Project Structure
 JarvisAI/
 │
 ├── main.py                  # Core voice assistant script
