@@ -1,4 +1,6 @@
 # 🤖 Jarvis AI – Your Personal Desktop Assistant
+An intelligent AI-powered voice assistant built with Python and OpenAI’s GPT models. Jarvis can chat, open websites and apps, play music, tell the time, and save AI-generated responses to files. Designed to be modular, scalable, and extendable.
+
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 
@@ -100,6 +102,11 @@ jarvis quit	Exits Jarvis AI
 
 
 
+## 📂 Project Structure
+
+Below is the complete structure of the **JarvisAI** project:
+
+```text
 JarvisAI/
 │
 ├── main.py                  # Core voice assistant script
@@ -108,4 +115,11 @@ JarvisAI/
 ├── Openai/                  # Folder for AI-generated text files
 ├── assets/                  # Screenshots, GIFs, icons
 └── README.md                # Project documentation
+
+
+## 👤 Author
+
+**SARANG ANUPAM**  
+
+*"Jarvis AI – Your personal assistant for productivity, learning, and fun!"*
 
